@@ -1,0 +1,22 @@
+.cabecalh0{
+
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align:justify;
+    font-size:medium;
+    background-color:cornflowerblue;
+}
+
+.corpo{
+  background-color:deepskyblue;
+  text-align:justify;
+  font-size:smaller;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.rodape{
+   font-family: 'Times New Roman', Times, serif;
+   text-align:justify;
+   font-size:medium;
+   background-color:blanchedalmond;
+
+}
